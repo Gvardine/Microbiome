@@ -2,6 +2,9 @@
 
 This project implements a machine learning pipeline to distinguish Colorectal Cancer (CRC) patients from healthy controls using 16S rRNA sequencing data. The focus is on identifying stable microbial biomarkers across different tree-based algorithms.
 
+### Dataset Source
+The analysis is based on the **Colorectal Cancer (CRC) Gut Microbiome** dataset sourced from [Kaggle](https://www.kaggle.com/datasets/aramelheni/crc-gut-microbiome-ml-data/data). It contains 16S rRNA amplicon sequencing data and clinical metadata.
+
 ## Key Results
 
 * **Recall:** **100%** (0 false negatives), crucial for medical screening applications.
